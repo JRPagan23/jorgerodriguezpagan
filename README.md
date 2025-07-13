@@ -7,9 +7,9 @@
 🎯 Goal: Work at NASA, SpaceX, or launch my own space-cybersecurity research lab  
 🛠️ Tools: Python, Flask, PyCryptodome, MQTT, PyQt5, Git, Linux  
 📦 Projects:  
-- 🔓 [Encryption-GUI-Simulator](https://yourlink) – AES, RSA, Quantum Link encryption with UI  
-- 🛰️ [Secure Satellite Telemetry](https://github.com/yourrepo) – Encrypted MQTT satellite-ground systems  
-- 🛡️ Secure Flask Login Template – Admin/user roles, email verification, password reset, OAuth  
+- 🔓 Encryption-GUI-Simulator – AES, RSA, Quantum Link encryption with UI  
+- 🛰️ [Secure Satellite Telemetry](https://github.com/JRPagan23/secure-satellite-telemetry) – Encrypted MQTT satellite-ground systems  
+- 🛡️ [Secure Flask Login Template](https://github.com/JRPagan23/secure-flask-login-template-preview) – Admin/user roles, email verification, password reset, OAuth  
 
 📬 Contact: 
 Email: rodriguezpaganjorge@gmail.com 
