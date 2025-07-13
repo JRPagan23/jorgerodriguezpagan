@@ -1,4 +1,4 @@
-# jorgerodriguezpagandev
+# jorgerodriguezpagan
 # 👨‍🚀 Jorge Rodriguez Pagan | Space Security & Quantum Comms Builder
 
 🛰️ Aspiring Satellite Security Engineer | CS50 Certified | Cybersecurity Student @ STCC  
